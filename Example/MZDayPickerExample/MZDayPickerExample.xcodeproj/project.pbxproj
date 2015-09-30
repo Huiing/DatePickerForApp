@@ -48,6 +48,7 @@
 		D285CAD1172AA63D00452B91 /* MZDayPicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MZDayPicker.m; path = ../../../MZDayPicker/MZDayPicker.m; sourceTree = "<group>"; };
 		D285CAD2172AA63D00452B91 /* MZDayPickerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MZDayPickerCell.h; path = ../../../MZDayPicker/MZDayPickerCell.h; sourceTree = "<group>"; };
 		D285CAD3172AA63D00452B91 /* MZDayPickerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MZDayPickerCell.m; path = ../../../MZDayPicker/MZDayPickerCell.m; sourceTree = "<group>"; };
+		DC484F051BBB71E500989B05 /* lisi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lisi.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +124,7 @@
 		062E334B1725A9CC009B699E /* MZDayPicker */ = {
 			isa = PBXGroup;
 			children = (
+				DC484F041BBB71C700989B05 /* lisi */,
 				D285CACE172AA63D00452B91 /* MZDay.h */,
 				D285CACF172AA63D00452B91 /* MZDay.m */,
 				D285CAD0172AA63D00452B91 /* MZDayPicker.h */,
@@ -131,6 +133,14 @@
 				D285CAD3172AA63D00452B91 /* MZDayPickerCell.m */,
 			);
 			name = MZDayPicker;
+			sourceTree = "<group>";
+		};
+		DC484F041BBB71C700989B05 /* lisi */ = {
+			isa = PBXGroup;
+			children = (
+				DC484F051BBB71E500989B05 /* lisi.h */,
+			);
+			name = lisi;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
