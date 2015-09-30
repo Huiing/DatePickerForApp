@@ -49,6 +49,7 @@
 		D285CAD2172AA63D00452B91 /* MZDayPickerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MZDayPickerCell.h; path = ../../../MZDayPicker/MZDayPickerCell.h; sourceTree = "<group>"; };
 		D285CAD3172AA63D00452B91 /* MZDayPickerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MZDayPickerCell.m; path = ../../../MZDayPicker/MZDayPickerCell.m; sourceTree = "<group>"; };
 		DC484F051BBB71E500989B05 /* lisi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lisi.h; sourceTree = "<group>"; };
+		DC484F071BBB743900989B05 /* wangwu.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wangwu.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +125,7 @@
 		062E334B1725A9CC009B699E /* MZDayPicker */ = {
 			isa = PBXGroup;
 			children = (
+				DC484F061BBB741500989B05 /* wangwu */,
 				DC484F041BBB71C700989B05 /* lisi */,
 				D285CACE172AA63D00452B91 /* MZDay.h */,
 				D285CACF172AA63D00452B91 /* MZDay.m */,
@@ -141,6 +143,14 @@
 				DC484F051BBB71E500989B05 /* lisi.h */,
 			);
 			name = lisi;
+			sourceTree = "<group>";
+		};
+		DC484F061BBB741500989B05 /* wangwu */ = {
+			isa = PBXGroup;
+			children = (
+				DC484F071BBB743900989B05 /* wangwu.h */,
+			);
+			name = wangwu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
